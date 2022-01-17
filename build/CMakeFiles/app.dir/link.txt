@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9    -rdynamic CMakeFiles/app.dir/src/main.cpp.o  -o app  libraries/glfw/src/libglfw3.a libglad.a -ldl -lGL -lpthread -lrt -lm -ldl 
